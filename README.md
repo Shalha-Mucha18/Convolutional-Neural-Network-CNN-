@@ -3,11 +3,11 @@ This project aims to classify images as either containing a horse or a human usi
 ## Project Overview
 The project utilizes the power of CNNs, a class of deep neural networks well-suited for image classification tasks. TensorFlow, a widely used deep learning framework, is employed for building and training the model. The dataset consists of labeled images of horses and humans, enabling the model to learn distinctive features of each class.
 ## Key Features
-**Convolutional Neural Network:** Implemented a CNN architecture to effectively extract features from input images.
-**TensorFlow:** Leveraged TensorFlow library for building, training, and evaluating the model.
-**Image Preprocessing:** Applied appropriate preprocessing techniques to enhance the model's learning process.
-**Classification Accuracy**: Achieved high accuracy in classifying images as either containing a horse or a human.
-**Model Evaluation:** Conducted a thorough evaluation of the model's performance on a separate test dataset.
+- **Convolutional Neural Network:** Implemented a CNN architecture to effectively extract features from input images.
+- **TensorFlow:** Leveraged TensorFlow library for building, training, and evaluating the model.
+- **Image Preprocessing:** Applied appropriate preprocessing techniques to enhance the model's learning process.
+- **Classification Accuracy**: Achieved high accuracy in classifying images as either containing a horse or a human.
+- **Model Evaluation:** Conducted a thorough evaluation of the model's performance on a separate test dataset.
 ## Usage
  - To train the model, follow these steps:
  - Clone the repository to your local machine.
